@@ -1,1 +1,50 @@
-
+[
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9 FE+",
+    "SKU": "12+256",
+    "Network": "WIFI",
+    "Screen Size": "12.4 inch",
+    "Link": "https://www.jarir.com/sa-en/default-category/samsung-galaxy-s9fe-tablet-pc-624939.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9 Ultra",
+    "SKU": "12+256",
+    "Network": "WIFI",
+    "Screen Size": 14.6,
+    "Link": "https://www.jarir.com/sa-en/samsung-galaxy-tab-s9-ultra-tablet-pc-622742.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9+",
+    "SKU": "12+256",
+    "Network": "WIFI",
+    "Screen Size": "12.4 inch",
+    "Link": "https://www.jarir.com/sa-en/samsung-galaxy-tab-s9-tablet-pc-622743.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9",
+    "SKU": "8+128",
+    "Network": "WIFI",
+    "Screen Size": "11.0 inch",
+    "Link": "https://www.jarir.com/sa-en/samsung-galaxy-tab-s8-tablet-pc-622744.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab A9+",
+    "SKU": "8+128",
+    "Network": "5G LTE",
+    "Screen Size": "11.0 inch",
+    "Link": "https://www.jarir.com/sa-en/default-category/samsung-tablet-pc-626575.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab A9",
+    "SKU": "8+128",
+    "Network": "4G LTE",
+    "Screen Size": 8.7,
+    "Link": "https://www.jarir.com/sa-en/default-category/samsung-tablet-pc-626635.html"
+  }
+]
