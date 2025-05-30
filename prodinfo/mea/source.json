@@ -1,5 +1,115 @@
 [
   {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9 FE+",
+    "SKU": "12+256",
+    "Network": "WIFI",
+    "Inbox": null,
+    "Screen Size": "12.4 inch",
+    "Channel": "Jarir",
+    "RRP": 2299,
+    "Link": "https://www.jarir.com/sa-en/default-category/samsung-galaxy-s9fe-tablet-pc-624939.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9 Ultra",
+    "SKU": "12+256",
+    "Network": "WIFI",
+    "Inbox": null,
+    "Screen Size": 14.6,
+    "Channel": "Jarir",
+    "RRP": 4999,
+    "Link": "https://www.jarir.com/sa-en/samsung-galaxy-tab-s9-ultra-tablet-pc-622742.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9+",
+    "SKU": "12+256",
+    "Network": "WIFI",
+    "Inbox": null,
+    "Screen Size": "12.4 inch",
+    "Channel": "Jarir",
+    "RRP": 4299,
+    "Link": "https://www.jarir.com/sa-en/samsung-galaxy-tab-s9-tablet-pc-622743.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab S9",
+    "SKU": "8+128",
+    "Network": "WIFI",
+    "Inbox": null,
+    "Screen Size": "11.0 inch",
+    "Channel": "Jarir",
+    "RRP": 3399,
+    "Link": "https://www.jarir.com/sa-en/samsung-galaxy-tab-s8-tablet-pc-622744.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab A9+",
+    "SKU": "8+128",
+    "Network": "5G LTE",
+    "Inbox": null,
+    "Screen Size": "11.0 inch",
+    "Channel": "Jarir",
+    "RRP": 1199,
+    "Link": "https://www.jarir.com/sa-en/default-category/samsung-tablet-pc-626575.html"
+  },
+  {
+    "Branding": "Samsung",
+    "Product Series": "Galaxy Tab A9",
+    "SKU": "8+128",
+    "Network": "4G LTE",
+    "Inbox": null,
+    "Screen Size": 8.7,
+    "Channel": "Jarir",
+    "RRP": 949,
+    "Link": "https://www.jarir.com/sa-en/default-category/samsung-tablet-pc-626635.html"
+  },
+  {
+    "Branding": "Lenovo",
+    "Product Series": "Tab M10 Plus(3rd Gen)",
+    "SKU": "4+128",
+    "Network": "LTE",
+    "Inbox": "Cover&Pen",
+    "Screen Size": 10.61,
+    "Channel": "Jarir",
+    "RRP": 1199,
+    "Link": "https://www.jarir.com/sa-en/default-category/lenovo-tab-m10-plus-3rd-gen-tablet-pc-600571.html"
+  },
+  {
+    "Branding": "Lenovo",
+    "Product Series": "Tab P12 (With Pen)",
+    "SKU": "8+128",
+    "Network": "WIFI",
+    "Inbox": null,
+    "Screen Size": "12.7 inch",
+    "Channel": "Jarir",
+    "RRP": 1799,
+    "Link": "https://www.jarir.com/sa-en/default-category/lenovo-tab-p11-plus-tablet-pc-597113.html"
+  },
+  {
+    "Branding": "Lenovo",
+    "Product Series": "Tab K11",
+    "SKU": "8+128",
+    "Network": "4G LTE",
+    "Inbox": null,
+    "Screen Size": "11.0 inch",
+    "Channel": "Jarir",
+    "RRP": 999,
+    "Link": "https://www.jarir.com/sa-en/default-category/lenovo-k11-tablet-pc-636977.html"
+  },
+  {
+    "Branding": "Honor",
+    "Product Series": "Pad V9",
+    "SKU": "12+256",
+    "Network": "WIFI",
+    "Inbox": null,
+    "Screen Size": 11.5,
+    "Channel": "Jarir",
+    "RRP": 1999,
+    "Link": "https://www.jarir.com/sa-en/default-category/honor-pad-x9-tablet-pc-652869.html"
+  },
+  {
     "Branding": "Honor",
     "Product Series": "Pad 9 (With KB)",
     "SKU": "8+256",
